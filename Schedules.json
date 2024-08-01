@@ -1,24 +1,98 @@
 {
     "Monday": [
-        {"time": "9:00 AM - 12:00 PM", "subject": "IT 212: Fundamentals of Database Systems", "faculty": "Ms. Aubrey A. Lavarez", "room": "CET 102"},
-        {"time": "4:00 PM - 6:00 PM", "subject": "IT 213: Platform Technologies", "faculty": "Mr. Leslie Sungkit", "room": "3s 104"}
+        {
+            "time": "9:00 AM - 12:00 PM",
+            "subject": "IT 212: Fundamentals of Database Systems",
+            "faculty": "Ms. Aubrey A. Lavarez",
+            "room": "CET 102"
+        },
+        {
+            "time": "4:00 PM - 6:00 PM",
+            "subject": "IT 213: Platform Technologies",
+            "faculty": "Mr. Leslie Sungkit",
+            "room": "CA 119"
+        }
     ],
     "Tuesday": [
-        {"time": "4:00 PM - 7:00 PM", "subject": "IT 211: Introduction to Human Computer Interaction", "faculty": "Cielo Tion", "room": "CET 102"},
-        {"time": "1:00 PM - 3:00 PM", "subject": "IT 212: Fundamentals of Database Systems", "faculty": "Melody Abcede", "room": "3s 104"}
+        {
+            "time": "9:00 AM - 12:00 PM",
+            "subject": "IT 214: Object Oriented Programming",
+            "faculty": "Ms. Trisha B. Posadas",
+            "room": "CET 102"
+        },
+        {
+            "time": "1:00 PM - 3:00 PM",
+            "subject": "IT 212: Fundamentals of Database Systems",
+            "faculty": "Melody Pagente",
+            "room": "CA 119"
+        },
+        {
+            "time": "4:00 PM - 7:00 PM",
+            "subject": "IT 211: Introduction to Human Computer Interaction",
+            "faculty": "Cielo Tion",
+            "room": "CET 102"
+        }
     ],
     "Wednesday": [
-        {"time": "7:30 AM - 9:30 AM", "subject": "IT 211: Introduction to Human Computer Interaction", "faculty": "Melody Abcede", "room": "3s 104"},
-        {"time": "1:00 PM - 3:00 PM", "subject": "IT 214: Object Oriented Programming", "faculty": "Ms. Trisha B. Posadas", "room": "3s 104"},
-        {"time": "4:00 PM - 7:00 PM", "subject": "IT 213: Platform Technologies", "faculty": "Mr. Leslie Sungkit", "room": "CET 102"}
+        {
+            "time": "7:30 AM - 9:30 AM",
+            "subject": "IT 211: Introduction to Human Computer Interaction",
+            "faculty": "Melody Pagente",
+            "room": "CA 119"
+        },
+        {
+            "time": "1:00 PM - 3:00 PM",
+            "subject": "IT 214: Object Oriented Programming",
+            "faculty": "Ms. Trisha B. Posadas",
+            "room": "CA 119"
+        },
+        {
+            "time": "4:00 PM - 7:00 PM",
+            "subject": "IT 213: Platform Technologies",
+            "faculty": "Mr. Leslie Sungkit",
+            "room": "CET 102"
+        }
     ],
     "Thursday": [
-        {"time": "9:00 AM - 12:00 PM", "subject": "IT 212: Fundamentals of Database Systems", "faculty": "Ms. Aubrey A. Lavarez", "room": "CET 102"},
-        {"time": "1:00 PM - 4:00 PM", "subject": "IT 213: Platform Technologies", "faculty": "Mr. Leslie Sungkit", "room": "CET 102"},
-        {"time": "7:30 AM - 9:00 AM", "subject": "IT 214: Object Oriented Programming", "faculty": "Ms. Trisha B. Posadas", "room": "CET 102"}
+        {
+            "time": "7:30 AM - 9:00 AM",
+            "subject": "IT 214: Object Oriented Programming",
+            "faculty": "Ms. Trisha B. Posadas",
+            "room": "CET 102"
+        },
+        {
+            "time": "9:00 AM - 12:00 PM",
+            "subject": "IT 212: Fundamentals of Database Systems",
+            "faculty": "Ms. Aubrey A. Lavarez",
+            "room": "CET 102"
+        },
+        {
+            "time": "1:00 PM - 3:00 PM",
+            "subject": "IT 213: Platform Technologies",
+            "faculty": "Mr. Leslie Sungkit",
+            "room": "CA 119"
+        }
     ],
     "Friday": [
-        {"time": "9:00 AM - 12:00 PM", "subject": "IT 211: Introduction to Human Computer Interaction", "faculty": "Cielo Tion", "room": "CET 102"},
-        {"time": "7:30 AM - 9:00 AM", "subject": "IT 214: Object Oriented Programming", "faculty": "Ms. Trisha B. Posadas", "room": "CET 102"}
+        {
+            "time": "7:30 AM - 9:00 AM",
+            "subject": "IT 214: Object Oriented Programming",
+            "faculty": "Ms. Trisha B. Posadas",
+            "room": "CET 102"
+        },
+        {
+            "time": "9:00 AM - 12:00 PM",
+            "subject": "IT 211: Introduction to Human Computer Interaction",
+            "faculty": "Cielo Tion",
+            "room": "CET 102"
+        }
+    ],
+    "Saturday": [
+        {
+            "time": "9:00 AM - 12:00 PM",
+            "subject": "IT 215: Accounting Principles",
+            "faculty": "",
+            "room": "CET 102"
+        }
     ]
 }
