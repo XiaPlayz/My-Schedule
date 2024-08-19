@@ -7,6 +7,12 @@
             "room": "CET 102"
         },
         {
+            "time": "1:00 PM - 2:30 PM",
+            "subject": "Environmental Science",
+            "faculty": "Chiena Palconite",
+            "room": "5S 203"
+        },
+        {
             "time": "4:00 PM - 6:00 PM",
             "subject": "IT 213: Platform Technologies",
             "faculty": "Mr. Leslie Sungkit",
@@ -14,6 +20,12 @@
         }
     ],
     "Tuesday": [
+        {
+            "time": "7:00 AM - 9:00 AM",
+            "subject": "PATH FIT 3: Physical Activity Towards Health and Fitness 3",
+            "faculty": "Jozen Tagaylo",
+            "room": "Oval Grandstand 1"
+        },
         {
             "time": "9:00 AM - 12:00 PM",
             "subject": "IT 214: Object Oriented Programming",
@@ -85,13 +97,19 @@
             "subject": "IT 211: Introduction to Human Computer Interaction",
             "faculty": "Cielo Tion",
             "room": "CET 102"
+        },
+        {
+            "time": "1:00 PM - 2:30 PM",
+            "subject": "Environmental Science",
+            "faculty": "Chiena Palconite",
+            "room": "5S 203"
         }
     ],
     "Saturday": [
         {
             "time": "9:00 AM - 12:00 PM",
             "subject": "IT 215: Accounting Principles",
-            "faculty": "",
+            "faculty": "Chiena Palconite",
             "room": "CET 102"
         }
     ]
